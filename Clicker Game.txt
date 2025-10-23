@@ -1,8 +1,10 @@
 Let's Make a Game!
-	name: Temp Clicker
+	name:Temp Clicker
+	author:T34R0R
 
 Resources
 	*candy
 		name:Candy
 		desc: a sweet piece of candy!
+
 
