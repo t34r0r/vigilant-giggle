@@ -1,0 +1,8 @@
+Let's Make a Game!
+	name: Temp Clicker
+
+Resources
+	*candy
+		name:Candy
+		desc: a sweet piece of candy!
+
